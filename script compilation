@@ -1,4 +1,6 @@
 ## Step 1. Basecalling using guppy
+
+
 ```
 #!/bin/bash -e
 
